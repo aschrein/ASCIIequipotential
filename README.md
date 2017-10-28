@@ -7,7 +7,7 @@ g++ Source.cpp -Ofast
 ./a.out 200 100 100 10.0f
 
 You should get something like that:
-
+```ruby
                    ##      #                                                     ##
  ###              #  #     #                         ####                        #
 #   ##            #  #     #                         #  #                        #       #
@@ -53,3 +53,5 @@ You should get something like that:
                      ##                                           ##                   #
                        ##                                                               #
                     #    ##                                                        #####
+                   
+  '''
